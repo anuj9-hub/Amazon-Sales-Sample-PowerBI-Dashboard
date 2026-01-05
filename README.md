@@ -11,9 +11,9 @@ The objective of this project is to analyze sales performance, profitability, re
 ## 📊 Dashboard Features
 
 ### 🔹 Sales Analysis
-- Sales by Segment (bar chart)
-- Sales by Payment mode (bar chart)
-- Sales by Ship (bar chart)
+- Sales by Segment (donut chart)
+- Sales by Payment mode (donut chart)
+- Sales by Ship (donut chart)
 - Sales per year wise trend analysis
 
 ### 🔹 Profit Analysis
