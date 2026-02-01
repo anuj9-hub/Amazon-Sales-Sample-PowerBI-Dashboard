@@ -48,4 +48,20 @@ To practice real-world business analysis by converting raw sales data into meani
 ## 📸 Dashboard Preview
 <img width="1343" height="743" alt="1  dashboard" src="https://github.com/user-attachments/assets/cb58f11c-134f-400d-973c-8d11eaed5573" />
 
+---
+
+##  About Me
+I am a B.Tech student actively building skills in **data analysis and analytics tools**, with hands-on experience in **SQL, Excel, Python, and Power BI**.  
+I enjoy working with structured datasets, understanding database schemas, performing **ad-hoc analysis**, and converting data into meaningful business insights.
+
+I am currently seeking **data analyst internships** where I can apply and further strengthen my analytical and problem-solving skills.
+
+---
+
+##  Contact
+- **LinkedIn:** https://www.linkedin.com/in/anujjain9/
+- **Email:** anuj962005@gmail.com
+
+---
+
 
